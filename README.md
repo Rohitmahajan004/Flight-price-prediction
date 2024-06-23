@@ -5,4 +5,4 @@
 
 ### The code files and the deployed web application for this session can be accessed through the below links:
 - [Code Files](https://github.com/Rohitmahajan004/Flight-price-prediction)
-- [Web Application](https://flask-course-ml-project.onrender.com)
+- [Web Application](https://flight-price-prediction-9nwf.onrender.com)
